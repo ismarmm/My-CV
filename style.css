@@ -1,0 +1,74 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    text-align: justify;
+}
+.box-1{
+    width: 410px; height:auto;
+    background-color:   #F79028;
+    text-align: justify;
+    opacity: 0.8;
+}
+.nombre{
+    margin-left: 20px;
+    text-align: center;
+}
+.foto{
+    margin-left: 20px;
+    text-align: justify;
+}
+
+.gmail{
+    margin-left: 20px;
+    text-align: justify;
+}
+.numero{
+    margin-left: 20px;
+    text-align: justify;
+}
+.estudios{
+    margin-left: 20px;
+    text-align: justify;
+}
+.linkedin{
+    margin-left: 20px;
+    text-align: justify;
+}
+.direccion{
+    margin-left: 20px;
+    padding: 10px;
+}
+.sobremi{
+    font-family: 'Geologica', sans-serif;
+    margin-right: 80px;
+    text-align: justify; 
+    padding: 10px;
+    
+}
+.lugardestudio{
+    font-family: 'Geologica', sans-serif;
+    margin-right: 80px;
+    text-align: justify;
+    padding: 10px;
+}
+.experiencia{
+    font-family: 'Geologica', sans-serif;
+    margin-right: 80px;
+    text-align: justify;
+    
+    
+}
+
+.about{
+    font-family: 'Geologica', sans-serif;
+}
+
+.experience{
+    font-family: 'Geologica', sans-serif;
+}
+
+
+.education{
+    font-family: 'Geologica', sans-serif;
+}
+
