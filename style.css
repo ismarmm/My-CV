@@ -13,6 +13,12 @@
     margin-left: 20px;
     text-align: center;
 }
+img{
+    width: 195px;
+    height: 155px;
+    display: block;
+    margin: 0 auto;
+}
 .foto{
     margin-left: 20px;
     text-align: justify;
@@ -21,22 +27,26 @@
 .gmail{
     margin-left: 20px;
     text-align: justify;
+    padding: 15px;
 }
 .numero{
     margin-left: 20px;
     text-align: justify;
+    padding: 15px;
 }
 .estudios{
     margin-left: 20px;
     text-align: justify;
+    padding: 15px;
 }
 .linkedin{
     margin-left: 20px;
     text-align: justify;
+    padding: 15px;
 }
 .direccion{
     margin-left: 20px;
-    padding: 10px;
+    padding: 15px;
 }
 .sobremi{
     font-family: 'Geologica', sans-serif;
@@ -49,7 +59,6 @@
     font-family: 'Geologica', sans-serif;
     margin-right: 80px;
     text-align: justify;
-    padding: 10px;
 }
 .experiencia{
     font-family: 'Geologica', sans-serif;
@@ -65,6 +74,7 @@
 
 .experience{
     font-family: 'Geologica', sans-serif;
+    
 }
 
 
@@ -72,3 +82,9 @@
     font-family: 'Geologica', sans-serif;
 }
 
+
+
+
+.asd{
+    font-family: 'Geologica', sans-serif;
+}
